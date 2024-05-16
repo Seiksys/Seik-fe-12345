@@ -12,6 +12,7 @@ function MainApp() {
       <Card />
       <DataFetcher /> {/* 使用 DataFetcher 组件 */}
       <Footer />
+      <UpdateUserButton />
     </div>
   );
 }

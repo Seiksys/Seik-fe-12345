@@ -7,8 +7,6 @@ import SearchTime from './Page/SearchTime';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { UserProvider } from './UserContext'; // 引入 UserProvider
-import Card from "./components/Card";
-
 
 ReactDOM.render(
   <React.StrictMode>
