@@ -11,6 +11,7 @@ function MainApp() {
       <Header />
       <Card />
       <Footer />
+      <UpdateUserButton />
     </div>
   );
 }
